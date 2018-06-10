@@ -36,7 +36,7 @@ plt.xlabel('Day 1 views')
 plt.ylabel('Day 2 views')
 plt.xscale('log')
 plt.yscale('log')
-plt.show()
+# plt.show()
 plt.savefig('wikipedia_Tom.png')
 
 
