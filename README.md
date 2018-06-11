@@ -6,8 +6,8 @@
 <br />
 <p>You are given some data on the number of times individual Wikipedia pages were viewed in a particular hour, and then in the same hour a day later. The task of this exercise is to:
         <ul>
-                <li>Created a plot of popularity distribution (x-axis: Rank, y-axis: Views)<li/>
-                <li>Create a scatterplot of views from the first data file (x-coordinate) and the corresponding values from the second data file (y-coordinate)<li/>
+                <li>Created a plot of popularity distribution (x-axis: Rank, y-axis: Views)
+                <li>Create a scatterplot of views from the first data file (x-coordinate) and the corresponding values from the second data file (y-coordinate)
          <ul/>
 <p/>                    
 <br />
