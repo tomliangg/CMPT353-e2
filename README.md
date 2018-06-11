@@ -2,6 +2,16 @@
 <h3>This repo is created for documentation purpose. The repo contains my personal work toward the SFU CMPT353 (Computational Data Science) course. You may use my solution as a reference. The .zip archive contains the original exercise files. For practice purpose, you can download the .zip archive and start working from there.</h3>
 
 <p><a href="https://coursys.sfu.ca/2018su-cmpt-353-d1/pages/AcademicHonesty">Academic Honesty</a>: it's important, as always.</p>
+
+<br />
+<p>You are given some data on the number of times individual Wikipedia pages were viewed in a particular hour, and then in the same hour a day later. The task of this exercise is to:
+        <ul>
+                <li>Created a plot of popularity distribution (x-axis: Rank, y-axis: Views)<li/>
+                <li>Create a scatterplot of views from the first data file (x-coordinate) and the corresponding values from the second data file (y-coordinate)<li/>
+         <ul/>
+<p/>                    
+<br />
+                
 <p>Below is the exercise description </p>
 <hr>
 
